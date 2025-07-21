@@ -18,7 +18,7 @@ const atlas = {
 <h2> 💬A bit more about me </h2>
 Languages:
 
-| Lang | Status |
+| Language | Status |
 |------|-----|
 | Russian | Native Language | 
 | English | B1 :( | 
