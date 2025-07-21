@@ -1,5 +1,5 @@
 <div align="center">
-123
+## Hi there 👋 Name's Atlas)
 </div>
 
 I'am a begginer coder, currently studying at <college name='NKEiVT' /> as second-year student
