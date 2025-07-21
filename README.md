@@ -17,8 +17,9 @@ const atlas = {
 
 <h2> 💬A bit more about me </h2>
 Languages:
-| Language | Status |
-|-----|-----|
+
+| Lang | Status |
+|------|-----|
 
 Some things I'm learning now:
 - RNN NN architecture + PyToch realization (✅)
