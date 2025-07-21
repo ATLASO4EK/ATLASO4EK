@@ -6,6 +6,7 @@ I'am a begginer coder, currently studying at college name="NKEiVT" as second-yea
 [![GitHub Thaiane](https://img.shields.io/github/followers/ATLASO4EK?label=follow&style=social)](https://github.com/ATLASO4EK)
 
 <h2>📌About me</h2>
+
 ```javascript
 const atlas = {
   code: [Python, C#, C++, SQL],
