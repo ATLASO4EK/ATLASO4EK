@@ -15,7 +15,7 @@ const atlas = {
 }
 ```
 
-<h2> 💬A bit more about me <\h2>
+<h2> 💬A bit more about me </h2>
 Languages:
 | Language | Status |
 |-----|----|
