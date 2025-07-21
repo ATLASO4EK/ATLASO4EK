@@ -1,6 +1,6 @@
-<div align="center">
-***Hi there 👋 Name's Atlas)***
-</div>
+<p align="center">
+Hi there 👋 Name's Atlas)
+</p>
 
 I'am a begginer coder, currently studying at <college name='NKEiVT' /> as second-year student
 
