@@ -20,6 +20,9 @@ Languages:
 
 | Lang | Status |
 |------|-----|
+| Russian | Native Language | 
+| English | B1 :( | 
+| Polish | In progress | 
 
 Some things I'm learning now:
 - RNN NN architecture + PyToch realization (✅)
