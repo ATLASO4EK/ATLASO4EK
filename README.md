@@ -9,7 +9,7 @@ I'am a begginer coder, currently studying at college name="NKEiVT" as second-yea
 
 ```javascript
 const atlas = {
-  code: [Python, C#, C++, SQL],
+  code: [Python, C#, SQL],
   specialize: [PyTorch, Flask, PyTeleBot, WPF, ASP.net, MySQL, SQLite]
   tools: [Visual Studio, PyCharm, Git]
  challenge: "learn pure C for fun"
